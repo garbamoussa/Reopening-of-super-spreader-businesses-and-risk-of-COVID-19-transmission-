@@ -42,8 +42,6 @@ Are counties with a higher concentration of super-spreader businesses associated
 ## Methodology 
 
 * Aim 1: Classify businesses into super-spreaders and not super-spreaders based on frequency and duration of visits pre-pandemic.
-
-     k means clustering
+    k means clustering
 * Aim 2: Identify association between counties with higher density of super-spreaders and COVID-19 cases.
-
-      Negative Binomial Regression 
+    Negative Binomial Regression 
