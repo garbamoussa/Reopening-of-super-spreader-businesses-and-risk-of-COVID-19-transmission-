@@ -6,16 +6,16 @@
 
 <h3>Participant: </h3>
 
-Ashley O’Donoghue, PhD
-Tenzin Dechen, MPH
-Whitney Pavlova
-Dr GARBA Moussa
-Manvi Madan, MS
-Michael Boals, MS
+Ashley O’Donoghue, PhD<br>
+Tenzin Dechen, MPH<br>
+Whitney Pavlova<br>
+Dr GARBA Moussa<br>
+Manvi Madan, MS<br>
+Michael Boals, MS<br>
 
-<h4>Mentor:</h4
+<h4>Mentor:</h4>
 
-Frank DeFalco
+Frank DeFalco<br>
 Aalok Thakkar
 
 <h2>Research Question</h2>
