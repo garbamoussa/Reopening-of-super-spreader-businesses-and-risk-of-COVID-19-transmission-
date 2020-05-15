@@ -28,6 +28,6 @@ Are counties with a higher concentration of super-spreader businesses associated
 ### Aim 2: Identify association between counties with higher super-spreaders and COVID-19 cases.
 
 ## Datasets
-* [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed, cases and Deaths) 
+* [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
 * [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) - (To get Foot Traffic in businesses across industries)
 * [NAICS](https://www.naics.com/search/) - (to map business codes to businesses and industries)
