@@ -1,6 +1,3 @@
-
-
-
 ![County-level Number of super-spreader businesses](visualizations/Map1.png "Legend")
 
 
@@ -48,3 +45,11 @@ Are counties with a higher concentration of super-spreader businesses associated
 * Aim 2: Identify association between counties with higher density of super-spreaders and COVID-19 cases.
 
     Negative Binomial Regression 
+    
+## Citation
+
+If you find our dataset or code useful, please find out  our [Presentation]():
+
+## Acknowledgements
+
+
