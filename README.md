@@ -1,7 +1,7 @@
 
 
 
-![]("https://files.slack.com/files-pri/T012KB3L71D-F013RPFQEF4/image.png"icubeds")
+![County-level Number of super-spreader businesses](visualizations/Map1.png "Legend")
 
 
 
