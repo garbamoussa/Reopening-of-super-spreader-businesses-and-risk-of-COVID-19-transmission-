@@ -4,7 +4,7 @@
 
 <h2 align=center>Track D, Team 6:</h2>
 
-<h3>Participant: </h3>
+<h3>Participants: </h3>
 
 Ashley O’Donoghue, PhD<br>
 Tenzin Dechen, MPH<br>
@@ -13,7 +13,7 @@ Dr GARBA Moussa<br>
 Manvi Madan, MS<br>
 Michael Boals, MS<br>
 
-<h4>Mentor:</h4>
+<h4>Mentors:</h4>
 
 Frank DeFalco<br>
 Aalok Thakkar
