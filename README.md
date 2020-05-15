@@ -1,5 +1,5 @@
 
-<img src="https://files.slack.com/files-pri/T012KB3L71D-F013RPFQEF4/image.png"/>
+
 
 
 <h1 align=center>Reopening of Super-Spreader Businesses and Risk of COVID-19 Transmission</h1>
