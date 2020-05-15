@@ -1,30 +1,24 @@
 
-# Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-
+<h1 align=center>Reopening of Super-Spreader Businesses and Risk of COVID-19 Transmission</h1>
 
 
-## Track D, Team 6:
+<h2 align=center>Track D, Team 6:</h2>
 
-### Participant: 
+<h3>Participant: </h3>
 
-Ashley O’Donoghue, 
+Ashley O’Donoghue, PhD
+Tenzin Dechen, MPH
+Whitney Pavlova
+Dr GARBA Moussa
+Manvi Madan, MS
+Michael Boals, MS
 
-PhD; Tenzin Dechen, 
+<h4>Mentor:</h4
 
-MPH; Whitney Pavlova; 
-
-Dr GARBA Moussa; 
-
-Manvi Madan, MS; 
-
-Michael Boals
-
-#### Mentor:
-
-Frank DeFalco, 
-
+Frank DeFalco
 Aalok Thakkar
 
-## Research Question
+<h2>Research Question</h2>
 
 
 Are counties with a higher concentration of super-spreader businesses associated with increased risk of COVID-19 transmission?
