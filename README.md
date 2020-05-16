@@ -53,3 +53,10 @@ If you find our dataset or code useful, please find out  our [Presentation]():
 ## Acknowledgements
 
 
+## Prerequisites for techhinical implementation 
+
+- Python 3
+- BigQuery 
+- R
+- Stata
+- Tableau
