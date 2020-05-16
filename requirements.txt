@@ -1,0 +1,6 @@
+Pythhon 3
+Stata
+R
+BigQuery 
+Tabbleau 
+Pandas Profiling 
