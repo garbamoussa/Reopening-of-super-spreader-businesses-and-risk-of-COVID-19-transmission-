@@ -52,6 +52,20 @@ If you find our dataset or code useful, please find out  our [Presentation]():
 
 ## Acknowledgements
 
+<h3>Participants: </h3>
+
+Ashley O’Donoghue, PhD<br>
+Tenzin Dechen, MPH<br>
+Whitney Pavlova<br>
+Dr GARBA Moussa<br>
+Manvi Madan, MS<br>
+Michael Boals, MS<br>
+
+<h4>Mentors:</h4>
+
+Frank DeFalco<br>
+Aalok Thakkar
+
 
 ## Prerequisites for techhinical implementation 
 
