@@ -46,10 +46,9 @@ Are counties with a higher concentration of super-spreader businesses associated
 
     Negative Binomial Regression 
     
-## Citation
+## Presentation link 
 
-If you find our dataset or code useful, please find out  our [Presentation]():
-
+- [./TrackD_Team006_Final](https://github.com/garbamoussa/Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-/blob/master/visualizations/TrackD_Team006_Final.pdf)
 ## Acknowledgements
 
 <h3>Participants: </h3>
