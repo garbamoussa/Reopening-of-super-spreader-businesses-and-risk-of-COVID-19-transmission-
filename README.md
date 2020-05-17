@@ -59,7 +59,7 @@ Tenzin Dechen, MPH<br>
 Whitney Pavlova<br>
 Dr GARBA Moussa<br>
 Manvi Madan, MS<br>
-Michael Boals, MS<br>
+[Michael Boals, MS]#https://github.com/Merkeley<br>
 
 <h4>Mentors:</h4>
 
