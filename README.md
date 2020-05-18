@@ -68,6 +68,5 @@ Aalok Thakkar
 
 - Python 3
 - BigQuery 
-- R
-- Stata
+- Stata 14
 - Tableau
