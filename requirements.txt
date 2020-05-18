@@ -1,6 +1,4 @@
-Pythhon 3
-Stata
-R
+Python 3
+Stata 14
 BigQuery 
-Tabbleau 
-Pandas Profiling 
+Tableau 
