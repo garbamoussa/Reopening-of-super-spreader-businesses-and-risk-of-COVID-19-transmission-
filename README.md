@@ -1,4 +1,4 @@
-![County-level Number of super-spreader businesses](visualizations/Map1.png "Legend")
+![County-level Number of super-spreader businesses](visualizations/CT_RI_CovidPop_SSBiz.png"Legend")
 
 
 
