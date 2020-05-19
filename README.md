@@ -49,21 +49,6 @@ Are counties with a higher concentration of super-spreader businesses associated
 - [TrackD_Team006_Final](https://github.com/garbamoussa/Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-/blob/master/visualizations/TrackD_Team006_Final.pdf)
 ## Acknowledgements
 
-<h3>Participants: </h3>
-
-Ashley O’Donoghue, PhD<br>
-Tenzin Dechen, MPH<br>
-Whitney Pavlova<br>
-Dr GARBA Moussa<br>
-Manvi Madan, MS<br>
-Michael Boals, MS<br>
-
-<h4>Mentors:</h4>
-
-Frank DeFalco<br>
-Aalok Thakkar
-
-
 ## Prerequisites for techhinical implementation 
 
 - Python 3
