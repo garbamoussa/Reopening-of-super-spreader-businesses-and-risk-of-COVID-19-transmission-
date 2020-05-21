@@ -48,7 +48,7 @@ Are counties with a higher concentration of super-spreader businesses associated
 
 - [TrackD_Team006_Final](https://github.com/garbamoussa/Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-/blob/master/visualizations/TrackD_Team006_Final.pdf)
 
-## Prerequisites for techhinical implementation 
+## Prerequisites for technical implementation 
 
 - Python 3
 - BigQuery 
