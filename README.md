@@ -2,7 +2,7 @@
 
 
 
-<h1 align=center>Reopening of Super-Spreader Businesses and Risk of COVID-19 Transmission</h1>
+<h1 align=center>Super-Spreader Businesses and Risk of COVID-19 Transmission</h1>
 
 
 <h2 align=center>Track D, Team 6:</h2>
