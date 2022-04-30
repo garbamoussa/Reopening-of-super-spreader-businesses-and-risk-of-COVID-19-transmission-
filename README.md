@@ -22,7 +22,7 @@ Frank DeFalco<br>
 Aalok Thakkar
 
 <h2>Research Question</h2>
-
+ 
 
 Are counties with a higher concentration of super-spreader businesses associated with increased risk of COVID-19 transmission?
  
